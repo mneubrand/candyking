@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: c96562df8c0e74eb78250f09ec04b0bc
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: head
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1848
+        width: 629
+        height: 823
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mouth_1
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2025
+        width: 300
+        height: 149
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mouth_2
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 2075
+        width: 300
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: mouth_3
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 2007
+        width: 241
+        height: 167
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: body
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 1017
+        height: 937
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: left_arm
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1410
+        width: 442
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: right_arm
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 813
+        width: 517
+        height: 302
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: right_leg
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 0
+        width: 404
+        height: 484
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: left_leg
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 56
+        width: 387
+        height: 381
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
