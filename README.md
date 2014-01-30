@@ -1,4 +1,4 @@
-Unity based entry to #candyjam
+Unity based entry to [#candyjam](http://itch.io/jam/candyjam)
 
 Dig through news reports of new game releases to find studios that use "Candy" or "Saga" as part of the name of their games. Stamp them with cease and desist before time runs out but be careful not to stamp the wrong ones
 
